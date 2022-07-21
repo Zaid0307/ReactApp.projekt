@@ -1,4 +1,4 @@
-import ProfielPic from "../img/DSC_2197_ Kopie.jpg"
+import ProfielPic from "./img/DSC_2197_ Kopie.jpg"
 import styled from "styled-components"
 
 export default function aboutme(){
