@@ -1,2 +1,13 @@
 {
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "explorer.compactFolders": false,
+  "bracketPairColorizer.depreciation-notice": false,
+  "emmet.showSuggestionsAsSnippets": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.settings.editor": "json",
+  "diffEditor.maxComputationTime": 0,
+  "git.autofetch": true,
+  "git.terminalGitEditor": true,
+  "terminal.explorerKind": "external"
 }

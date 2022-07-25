@@ -16,6 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "ci": "start-server-and-test start-server http://localhost:8080 test",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -37,5 +38,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaid0307/ReactApp.projekt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaid0307/ReactApp.projekt/issues"
+  },
+  "homepage": "https://github.com/Zaid0307/ReactApp.projekt#readme"
 }
